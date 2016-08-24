@@ -8,4 +8,8 @@ HEAD
 1.실험2 마스터
 1.실험2
 실험2
+<<<<<<< .merge_file_TsZUw8
 실험3 자체
+=======
+실험3를 해보자
+>>>>>>> .merge_file_Fs9JbU
